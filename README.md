@@ -19,7 +19,7 @@ Sophomore at SRM University pursuing Btech Computer Science. I'm a sustainablity
 * Management
 * Photo/Videography
 * All rounder sportsman
-* Call of Duty :)
+* Gaming :)
 
 ### My Love : High energy lifestyle ⚡️
 * Travel
