@@ -1,6 +1,6 @@
 
 ### Rohit Singh 🐣
-I'm a 19yo college student at SRM University. I'm a sustainablity and startup enthusiast fueled by ideas and doing anything that brings them to life. 
+I'm a 19yo Computer Science student at SRM University. I'm a sustainablity and startup enthusiast fueled by ideas and doing anything that brings them to life. 
 
 ### My Tech Skills (Intermediate) ✊
 * Flutter
