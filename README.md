@@ -1,8 +1,8 @@
-### Hello 🍻
-### I'm Rohit 🐣
+
+### Rohit Singh 🐣
 I'm a 19yo college student at SRM University. I'm a sustainablity and startup enthusiast learning anything that brings my ideas live.
 
-### My Tech Skills (Intermediate) 
+### My Tech Skills (Intermediate) ✊
 * Flutter
 * C++
 * Webflow
