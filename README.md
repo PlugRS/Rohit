@@ -21,7 +21,7 @@ Sophomore at SRM University pursuing Btech Computer Science. I'm a sustainablity
 * All rounder sportsman
 * Call of Duty :)
 
-### My Love : High energy ⚡️ lifestyle
+### My Love : High energy lifestyle ⚡️
 * Travel
 * Party
 * Sports
