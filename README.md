@@ -4,6 +4,7 @@ Sophomore at SRM University pursuing Btech Computer Science. I'm a sustainablity
 
 ### My Tech Skills (Beginner) ✊
 * Flutter
+* Kotlin
 * C++
 * Webflow
 * Python
