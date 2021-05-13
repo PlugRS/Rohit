@@ -1,6 +1,6 @@
 
 ### Rohit Singh 🐣
-Sophomore at SRM University pursuing Btech Computer Science. I'm a sustainablity and startup enthusiast fueled by ideas and doing anything that brings them to life. 
+SRM University student pursuing Btech Computer Science. I'm a sustainablity and startup enthusiast fueled by ideas and doing anything that brings them to life. 
 
 ### My Tech Skills (Beginner) ✊
 * Flutter
